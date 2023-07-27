@@ -42,6 +42,11 @@ namespace NullableIntroduction
                 respondents.Add(respondent);
             }
         }
+
+        public IEnumerable<SurveyResponse> AllParticipants => (respondents ??
+Enumerable.Empty<SurveyResponse>());
+        public ICollection<SurveyQuestion> Questions => surveyQuestions;
+        public SurveyQuestion GetQuestion(int index) => surveyQuestions[index];
     }
 
     // 
@@ -101,5 +106,9 @@ namespace NullableIntroduction
                     return "Red. No, Green. Wait.. Blue... AAARGGGGGHHH!";
             }
         }
+
+        public bool AnsweredSurvey => surveyResponses != null;
+        public string Answer(int index) => surveyResponses?.GetValueOrDefault(index)
+        ?? "No answer";
     }
 }

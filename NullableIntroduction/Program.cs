@@ -12,5 +12,22 @@ class Program
         surveyRun.AddQuestion(QuestionType.Text, default); // should show a warning
 
         surveyRun.PerformSurvey(50);
+
+        foreach (var participant in surveyRun.AllParticipants)
+        {
+            Console.WriteLine($"Participant: {participant.Id}:");
+            if (participant.AnsweredSurvey)
+            {
+                for (int i = 0; i < surveyRun.Questions.Count; i++)
+                {
+                    var answer = participant.Answer(i);
+                    Console.WriteLine($"\t{surveyRun.GetQuestion(i).QuestionText} :{answer}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("\tNo responses");
+            }
+        }
     }
 }
