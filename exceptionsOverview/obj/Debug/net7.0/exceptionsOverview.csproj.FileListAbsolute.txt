@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/exceptionsOverview/bin/Debug/net7.0/exceptionsOverview
+/home/gershom/Documents/c#/programs/exceptionsOverview/bin/Debug/net7.0/exceptionsOverview.deps.json
+/home/gershom/Documents/c#/programs/exceptionsOverview/bin/Debug/net7.0/exceptionsOverview.runtimeconfig.json
+/home/gershom/Documents/c#/programs/exceptionsOverview/bin/Debug/net7.0/exceptionsOverview.dll
+/home/gershom/Documents/c#/programs/exceptionsOverview/bin/Debug/net7.0/exceptionsOverview.pdb
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.dll
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/refint/exceptionsOverview.dll
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.pdb
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/exceptionsOverview.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/exceptionsOverview/obj/Debug/net7.0/ref/exceptionsOverview.dll
