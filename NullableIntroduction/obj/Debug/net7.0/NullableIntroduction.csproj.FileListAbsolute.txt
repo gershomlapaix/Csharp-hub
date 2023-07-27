@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/NullableIntroduction/bin/Debug/net7.0/NullableIntroduction
+/home/gershom/Documents/c#/programs/NullableIntroduction/bin/Debug/net7.0/NullableIntroduction.deps.json
+/home/gershom/Documents/c#/programs/NullableIntroduction/bin/Debug/net7.0/NullableIntroduction.runtimeconfig.json
+/home/gershom/Documents/c#/programs/NullableIntroduction/bin/Debug/net7.0/NullableIntroduction.dll
+/home/gershom/Documents/c#/programs/NullableIntroduction/bin/Debug/net7.0/NullableIntroduction.pdb
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.dll
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/refint/NullableIntroduction.dll
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.pdb
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/NullableIntroduction.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/NullableIntroduction/obj/Debug/net7.0/ref/NullableIntroduction.dll
