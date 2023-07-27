@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/FunctionalTechn/bin/Debug/net7.0/FunctionalTechn
+/home/gershom/Documents/c#/programs/FunctionalTechn/bin/Debug/net7.0/FunctionalTechn.deps.json
+/home/gershom/Documents/c#/programs/FunctionalTechn/bin/Debug/net7.0/FunctionalTechn.runtimeconfig.json
+/home/gershom/Documents/c#/programs/FunctionalTechn/bin/Debug/net7.0/FunctionalTechn.dll
+/home/gershom/Documents/c#/programs/FunctionalTechn/bin/Debug/net7.0/FunctionalTechn.pdb
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.dll
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/refint/FunctionalTechn.dll
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.pdb
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/FunctionalTechn.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/FunctionalTechn/obj/Debug/net7.0/ref/FunctionalTechn.dll
