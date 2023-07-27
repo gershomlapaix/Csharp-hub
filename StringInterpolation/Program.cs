@@ -23,5 +23,12 @@
         Console.WriteLine($"|{"Author",-25}|{"Title",30}");
         foreach (var title in titles)
             Console.WriteLine($"|{title.Key,-25}|{title.Value,30}");
+
+
+        // using ?: operator in the interpolation
+        var rand = new Random();
+        for (int i = 0; i < 7; i++)
+            Console.WriteLine($"Coin flip: {(rand.NextDouble() < 0.5 ? "heads" :
+    "tails")}");
     }
 }
