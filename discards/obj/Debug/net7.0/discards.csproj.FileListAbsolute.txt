@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/discards/bin/Debug/net7.0/discards
+/home/gershom/Documents/c#/programs/discards/bin/Debug/net7.0/discards.deps.json
+/home/gershom/Documents/c#/programs/discards/bin/Debug/net7.0/discards.runtimeconfig.json
+/home/gershom/Documents/c#/programs/discards/bin/Debug/net7.0/discards.dll
+/home/gershom/Documents/c#/programs/discards/bin/Debug/net7.0/discards.pdb
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.dll
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/refint/discards.dll
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.pdb
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/discards.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/discards/obj/Debug/net7.0/ref/discards.dll
