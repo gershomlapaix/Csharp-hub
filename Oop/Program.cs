@@ -42,6 +42,8 @@ p2.Age);
         Console.WriteLine("person1 Name = {0} Age = {1}", p1.Name,
         p1.Age);
 
+        Console.WriteLine(p1.Equals(p2));
+
         Console.WriteLine("\n");
         // about structs
         PersonStruct p1struct = new PersonStruct("Alex", 9);
