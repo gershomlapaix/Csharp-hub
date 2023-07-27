@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/Oop/bin/Debug/net7.0/Oop
+/home/gershom/Documents/c#/programs/Oop/bin/Debug/net7.0/Oop.deps.json
+/home/gershom/Documents/c#/programs/Oop/bin/Debug/net7.0/Oop.runtimeconfig.json
+/home/gershom/Documents/c#/programs/Oop/bin/Debug/net7.0/Oop.dll
+/home/gershom/Documents/c#/programs/Oop/bin/Debug/net7.0/Oop.pdb
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.dll
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/refint/Oop.dll
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.pdb
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/Oop.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/Oop/obj/Debug/net7.0/ref/Oop.dll
