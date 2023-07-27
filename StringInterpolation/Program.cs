@@ -8,6 +8,20 @@
         var price = 1.99m;
         var unit = Unit.item;
 
-        Console.WriteLine($"On {date}, the price of {item} was {price} per {unit}.");
+        Console.WriteLine($"On {date}, the price of {item} was {price:C2} per {unit}.");
+        Console.WriteLine();
+
+        // width and alignment of interpolation expressions
+        var titles = new Dictionary<string, string>()
+        {
+            ["Doyle, Arthur Conana"] = "Hound of the Baskerviless, The",
+            ["London, Jack"] = "Call of the Wild, The",
+        };
+
+        Console.WriteLine("Author and Title List");
+        Console.WriteLine();
+        Console.WriteLine($"|{"Author",-25}|{"Title",30}");
+        foreach (var title in titles)
+            Console.WriteLine($"|{title.Key,-25}|{title.Value,30}");
     }
 }

@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/StringInterpolation/bin/Debug/net7.0/StringInterpolation
+/home/gershom/Documents/c#/programs/StringInterpolation/bin/Debug/net7.0/StringInterpolation.deps.json
+/home/gershom/Documents/c#/programs/StringInterpolation/bin/Debug/net7.0/StringInterpolation.runtimeconfig.json
+/home/gershom/Documents/c#/programs/StringInterpolation/bin/Debug/net7.0/StringInterpolation.dll
+/home/gershom/Documents/c#/programs/StringInterpolation/bin/Debug/net7.0/StringInterpolation.pdb
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.dll
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/refint/StringInterpolation.dll
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.pdb
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/StringInterpolation.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/StringInterpolation/obj/Debug/net7.0/ref/StringInterpolation.dll
