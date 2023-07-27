@@ -82,7 +82,7 @@ class Program
 
         Console.WriteLine(item.ToString());
 
-// change request
+        // change request
         ChangeRequest change = new ChangeRequest("Change Base Class Design",
 "Add members to the class",
 new TimeSpan(4, 0, 0),
@@ -90,10 +90,10 @@ new TimeSpan(4, 0, 0),
 
         Console.WriteLine(item.ToString());
 
-// make an update
+        // make an update
         change.Update("Change the Design of the Base Class",
 new TimeSpan(4, 0, 0));
 
-Console.WriteLine(change.ToString());
+        Console.WriteLine(change.ToString());
     }
 }
