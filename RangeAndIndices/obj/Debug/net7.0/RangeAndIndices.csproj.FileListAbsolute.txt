@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/RangeAndIndices/bin/Debug/net7.0/RangeAndIndices
+/home/gershom/Documents/c#/programs/RangeAndIndices/bin/Debug/net7.0/RangeAndIndices.deps.json
+/home/gershom/Documents/c#/programs/RangeAndIndices/bin/Debug/net7.0/RangeAndIndices.runtimeconfig.json
+/home/gershom/Documents/c#/programs/RangeAndIndices/bin/Debug/net7.0/RangeAndIndices.dll
+/home/gershom/Documents/c#/programs/RangeAndIndices/bin/Debug/net7.0/RangeAndIndices.pdb
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.dll
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/refint/RangeAndIndices.dll
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.pdb
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/RangeAndIndices.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/RangeAndIndices/obj/Debug/net7.0/ref/RangeAndIndices.dll

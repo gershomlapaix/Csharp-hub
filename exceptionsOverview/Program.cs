@@ -84,7 +84,10 @@
             {
                 Console.WriteLine(ex);
             }
-            Console.WriteLine("Done");
+            finally // it'll be executed no matter what
+            {
+                Console.WriteLine("Done");
+            }
         }
 
     }
