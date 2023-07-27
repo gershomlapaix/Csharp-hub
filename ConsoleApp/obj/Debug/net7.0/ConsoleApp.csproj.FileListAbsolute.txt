@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/home/gershom/Documents/c#/programs/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/home/gershom/Documents/c#/programs/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/home/gershom/Documents/c#/programs/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/home/gershom/Documents/c#/programs/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
