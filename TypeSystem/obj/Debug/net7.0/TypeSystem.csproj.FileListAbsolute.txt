@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/TypeSystem/bin/Debug/net7.0/TypeSystem
+/home/gershom/Documents/c#/programs/TypeSystem/bin/Debug/net7.0/TypeSystem.deps.json
+/home/gershom/Documents/c#/programs/TypeSystem/bin/Debug/net7.0/TypeSystem.runtimeconfig.json
+/home/gershom/Documents/c#/programs/TypeSystem/bin/Debug/net7.0/TypeSystem.dll
+/home/gershom/Documents/c#/programs/TypeSystem/bin/Debug/net7.0/TypeSystem.pdb
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.dll
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/refint/TypeSystem.dll
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.pdb
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/TypeSystem.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/TypeSystem/obj/Debug/net7.0/ref/TypeSystem.dll
