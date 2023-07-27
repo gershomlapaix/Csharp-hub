@@ -44,10 +44,56 @@ public class WorkItem
     public void Update(string title, TimeSpan jobLen)
     {
         this.Title = title;
-        this.JobLengt = jobLen;
+        this.JobLength = jobLen;
     }
 
-// overriding ToString() method
+    // overriding ToString() method
     public override string ToString() => $"{this.Id} - {this.Title} ";
 }
 
+
+// Another class
+public class ChangeRequest : WorkItem
+{
+    protected int originalItemId { get; set; }
+
+    // default constructor
+    public ChangeRequest() { }
+
+    // instance constructor
+    public ChangeRequest(string title, string description, TimeSpan jobLen, int originalId)
+    {
+        this.Id = GetNextId();
+        this.Title = title;
+        this.Description = description;
+        this.JobLength = jobLen;
+        this.originalItemId = originalId;
+    }
+}
+
+
+class Program
+{
+    static void Main()
+    {
+        WorkItem item = new WorkItem("Fix Bugs",
+        "Fix all bugs in my code branch",
+        new TimeSpan(3, 4, 0, 0));
+
+        Console.WriteLine(item.ToString());
+
+// change request
+        ChangeRequest change = new ChangeRequest("Change Base Class Design",
+"Add members to the class",
+new TimeSpan(4, 0, 0),
+1);
+
+        Console.WriteLine(item.ToString());
+
+// make an update
+        change.Update("Change the Design of the Base Class",
+new TimeSpan(4, 0, 0));
+
+Console.WriteLine(change.ToString());
+    }
+}

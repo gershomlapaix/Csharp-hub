@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/OO/Inheritance/bin/Debug/net7.0/Inheritance
+/home/gershom/Documents/c#/programs/OO/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/home/gershom/Documents/c#/programs/OO/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/home/gershom/Documents/c#/programs/OO/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/home/gershom/Documents/c#/programs/OO/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/OO/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
