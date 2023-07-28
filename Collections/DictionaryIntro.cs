@@ -7,7 +7,7 @@ public class Element
 {
     public string Symbol { get; set; }
     public string Name { get; set; }
-    public int AtomicNUmber { get; set; }
+    public int AtomicNumber { get; set; }
 }
 
 public class DictionaryOperations
@@ -21,7 +21,7 @@ public class DictionaryOperations
             Element theElement = kvp.Value;
             Console.WriteLine("key: " + kvp.Key);
             Console.WriteLine("values: " + theElement.Symbol + " " +
-            theElement.Name + " " + theElement.AtomicNUmber);
+            theElement.Name + " " + theElement.AtomicNumber);
         }
     }
 
@@ -43,7 +43,7 @@ public class DictionaryOperations
         Element theElement = new Element();
         theElement.Symbol = symbol;
         theElement.Name = name;
-        theElement.AtomicNUmber = atomicNumber;
+        theElement.AtomicNumber = atomicNumber;
 
         elements.Add(key: theElement.Symbol, value: theElement);
     }
