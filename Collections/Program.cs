@@ -14,5 +14,11 @@
 
         // for sorting
         SortingIntro.ListCars();
+
+        Console.WriteLine();
+
+        // iterators
+        IteratorsIntro.ListEvenNumbers();
+
     }
 }
