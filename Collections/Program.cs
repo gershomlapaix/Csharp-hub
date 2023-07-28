@@ -9,5 +9,10 @@
 
         // for lists
         ListIntro.ShowLINQ();
+
+        Console.WriteLine();
+
+        // for sorting
+        SortingIntro.ListCars();
     }
 }
