@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/REST/bin/Debug/net7.0/REST
+/home/gershom/Documents/c#/programs/REST/bin/Debug/net7.0/REST.deps.json
+/home/gershom/Documents/c#/programs/REST/bin/Debug/net7.0/REST.runtimeconfig.json
+/home/gershom/Documents/c#/programs/REST/bin/Debug/net7.0/REST.dll
+/home/gershom/Documents/c#/programs/REST/bin/Debug/net7.0/REST.pdb
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.dll
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/refint/REST.dll
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.pdb
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/REST.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/REST/obj/Debug/net7.0/ref/REST.dll
