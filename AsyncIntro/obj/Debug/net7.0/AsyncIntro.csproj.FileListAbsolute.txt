@@ -1,0 +1,15 @@
+/home/gershom/Documents/c#/programs/AsyncIntro/bin/Debug/net7.0/AsyncIntro
+/home/gershom/Documents/c#/programs/AsyncIntro/bin/Debug/net7.0/AsyncIntro.deps.json
+/home/gershom/Documents/c#/programs/AsyncIntro/bin/Debug/net7.0/AsyncIntro.runtimeconfig.json
+/home/gershom/Documents/c#/programs/AsyncIntro/bin/Debug/net7.0/AsyncIntro.dll
+/home/gershom/Documents/c#/programs/AsyncIntro/bin/Debug/net7.0/AsyncIntro.pdb
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.csproj.AssemblyReference.cache
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.GeneratedMSBuildEditorConfig.editorconfig
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.AssemblyInfoInputs.cache
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.AssemblyInfo.cs
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.csproj.CoreCompileInputs.cache
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.dll
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/refint/AsyncIntro.dll
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.pdb
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/AsyncIntro.genruntimeconfig.cache
+/home/gershom/Documents/c#/programs/AsyncIntro/obj/Debug/net7.0/ref/AsyncIntro.dll
