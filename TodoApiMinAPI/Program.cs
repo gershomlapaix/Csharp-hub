@@ -5,6 +5,8 @@ builder.Services.AddDbContext<TodoDb>(opt => opt.UseInMemoryDatabase("TodoList")
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 var app = builder.Build();
 
+var todoItems = app.MapGroup("/todoitems");
+
 app.MapGet("/", () => "Todo Apis!");
 
 // get all todo items
@@ -40,8 +42,22 @@ app.MapPut("/todoitems/{id}", async (int id, Todo inputTodo, TodoDb db) =>
     todo.Name = inputTodo.Name;
     todo.IsComplete = inputTodo.IsComplete;
 
-   await db.SaveChangesAsync();
+    await db.SaveChangesAsync();
 
     return Results.NoContent();
+});
+
+
+// delete a todo
+app.MapDelete("/todoitems/{id}", async (int id, TodoDb db) =>
+{
+    if (await db.Todos.FindAsync(id) is Todo todo)
+    {
+        db.Todos.Remove(todo);
+        await db.SaveChangesAsync();
+        return Results.Ok(todo);
+    }
+
+    return Results.NotFound();
 });
 app.Run();
