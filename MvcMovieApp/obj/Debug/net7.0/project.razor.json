@@ -18645,13 +18645,28 @@
   "RootNamespace": "MvcMovieApp",
   "Documents": [
     {
+      "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Movies/Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Movies/Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Movies/Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18662,6 +18677,16 @@
     {
       "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Movies/Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/gershom/Documents/c#/programs/MvcMovieApp/Views/Movies/Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
