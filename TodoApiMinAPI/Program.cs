@@ -96,6 +96,7 @@ static async Task<IResult> GetTodo(int id, TodoDb db)
             : TypedResults.NotFound();
 }
 
+// new todo
 static async Task<IResult> CreateTodo(Todo todo, TodoDb db)
 {
     db.Todos.Add(todo);
@@ -104,6 +105,7 @@ static async Task<IResult> CreateTodo(Todo todo, TodoDb db)
     return TypedResults.Created($"/todoitems/{todo.Id}", todo);
 }
 
+// update todo
 static async Task<IResult> UpdateTodo(int id, Todo inputTodo, TodoDb db)
 {
     var todo = await db.Todos.FindAsync(id);
@@ -118,6 +120,7 @@ static async Task<IResult> UpdateTodo(int id, Todo inputTodo, TodoDb db)
     return TypedResults.NoContent();
 }
 
+// remove todo
 static async Task<IResult> DeleteTodo(int id, TodoDb db)
 {
     if (await db.Todos.FindAsync(id) is Todo todo)
