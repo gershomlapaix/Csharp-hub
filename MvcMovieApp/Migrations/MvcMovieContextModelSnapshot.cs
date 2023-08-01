@@ -29,7 +29,7 @@ namespace MvcMovieApp.Migrations
                     b.Property<decimal>("Price")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("ReleaseData")
+                    b.Property<DateTime>("ReleaseDate")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Title")
