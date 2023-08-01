@@ -10,12 +10,21 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
+    builder.Services.AddDbContext<MvcMovieContext>(options =>
+            options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext")));
+
+    // Configure the HTTP request pipeline.
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+    app.UseHsts();     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+
+}
+else
+{
+    // use SQL server in the production
+    builder.Services.AddDbContext<MvcMovieContext>(options =>
+            options.UseSqlServer(builder.Configuration.GetConnectionString("ProductionMvcMovieContext")));
 }
 
 app.UseHttpsRedirection();
