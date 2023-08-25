@@ -34,13 +34,15 @@ app.MapPost("/todoItems", async(Todo todo, TodoDb db)=>{
 
 
 // update a todo
-app.MapPut("/todoItems/{id}", async(int id, Todo newTodo, TodoDb db)=>{
+app.MapPatch("/todoItems/{id}", async(int id, Todo newTodo, TodoDb db)=>{
     var todo = await db.todos.FindAsync(id);
 
     if(todo is null) return Results.NotFound();
 
     todo.Name = newTodo.Name;
     todo.IsComplete = newTodo.IsComplete;
+
+    await db.SaveChangesAsync();
 
     return Results.NoContent();
 });
