@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\bin\Debug\net7.0\strucuts.exe
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\bin\Debug\net7.0\strucuts.deps.json
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\bin\Debug\net7.0\strucuts.runtimeconfig.json
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\bin\Debug\net7.0\strucuts.dll
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\bin\Debug\net7.0\strucuts.pdb
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.dll
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\refint\strucuts.dll
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.pdb
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\strucuts.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\GSDS\Code\Csharp-hub\strucuts\obj\Debug\net7.0\ref\strucuts.dll
