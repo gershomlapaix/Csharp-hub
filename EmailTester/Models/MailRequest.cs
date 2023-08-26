@@ -3,7 +3,7 @@ public class MailRequest{
     private string toEmail;
     private string subject;
     private string body;
-    private List<IFormFile> attachments;
+    private List<IFormFile>? attachments;
     // IFormFile is a feature of ASP.NET Core to help speed up the process of uploading files 
     // It also acts as a medium for holding the files
 
@@ -38,7 +38,7 @@ public class MailRequest{
         set{body = value;}
     }
 
-    public List<IFormFile> Attachments{
+    public List<IFormFile>? Attachments{
         get {return attachments;}
         set{attachments = value;}
     }
