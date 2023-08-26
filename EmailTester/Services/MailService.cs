@@ -29,6 +29,10 @@ namespace EmailTester.Services{
                 Sender = MailboxAddress.Parse(_mailSettings.Mail)
             };
             email.To.Add(MailboxAddress.Parse(mailRequest.ToEmail));
+
+            // Ccing and BCcing
+            email.Cc.Add(MailboxAddress.Parse("gershomlapaix@gmail.com"));
+            
             email.Subject = mailRequest.Subject;
 
             var builder = new BodyBuilder();
