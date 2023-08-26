@@ -37,4 +37,9 @@ public class MailRequest{
         get {return body;}
         set{body = value;}
     }
+
+    public List<IFormFile> Attachments{
+        get {return attachments;}
+        set{attachments = value;}
+    }
 }

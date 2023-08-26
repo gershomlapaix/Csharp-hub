@@ -1,4 +1,6 @@
 
+using EmailTester.Services;
+
 namespace EmailTester{
     public class Startup{
 
@@ -15,9 +17,9 @@ namespace EmailTester{
         public void ConfigureServices(IServiceCollection services){
            try
            {
-             services.Configure<MailSettings>(Configuration.GetSection("MailSettings"));  // attach the data to the MailSettings class
-            services.AddTransient<IMailService, Services.MailService>();
-            services.AddControllers();
+                services.Configure<MailSettings>(Configuration.GetSection("MailSettings"));  // attach the data to the MailSettings class
+                services.AddTransient<IMailService, MailService>();
+                services.AddControllers();
            }
            catch (Exception ex)
            {
