@@ -1,7 +1,8 @@
 using Learning.Models;
 
 namespace Learning.Data{
-    public static void Initialize(LearningContext context){
+    public static class DbInitializer{
+        public static void Initialize(LearningContext context){
         context.Database.EnsureCreated();
 
         // Look for any students
@@ -67,5 +68,6 @@ namespace Learning.Data{
             }
             context.SaveChanges();
 
+    }
     }
 }
