@@ -11,7 +11,10 @@ namespace Learning{
 
         // register services that will start on the project launch
         public void ConfigureServices(IServiceCollection services){
-            services.AddDbContext<LearningContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LearningDB")))
+            services.AddDbContext<LearningContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LearningDB")));
+
+            // adding database exception filter
+            services.AddDatabaseDeveloperPageExceptionFilter();
         }
     }
 }
