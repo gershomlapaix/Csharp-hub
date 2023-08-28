@@ -1,25 +1,17 @@
-var builder = WebApplication.CreateBuilder(args);
+using Learning.Data;
+using Microsoft.EntityFrameworkCore;
 
-// Add services to the container.
+namespace Learning{
+    public class Startup{
+        public Startup(IConfiguration configuration){
+            Configuration = configuration;
+        }
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+        public IConfiguration Configuration{get;}
 
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
+        // register services that will start on the project launch
+        public void ConfigureServices(IServiceCollection services){
+            services.AddDbContext<LearningContext>(options => options.UseSqlServer(Configuration.GetConnectionString("LearningDB")))
+        }
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();

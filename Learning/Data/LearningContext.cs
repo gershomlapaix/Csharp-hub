@@ -9,5 +9,12 @@ namespace Learning.Data{
         public DbSet<Course> courses {get; set;}
         public DbSet<Enrollment> Enrollments {get; set;}
         public DbSet<Student> Students {get; set;}
+
+        // Make own database table names
+        protected override void OnModelCreating(ModelBuilder modelBuilder){
+            modelBuilder.Entity<Course>().ToTable("Course");
+            modelBuilder.Entity<Enrollment>().ToTable("Enrollment");
+            modelBuilder.Entity<Student>().ToTable("Student");
+        }
     }
 }
